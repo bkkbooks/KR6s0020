@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6s0020/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 悉曇字記
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T54/T54n2132.xml
+    old_id: T54n2132
+hash: sha256:810ffc0dc78eee6e12624a67504eae89c75c2f58da4757088166bff401dcae22

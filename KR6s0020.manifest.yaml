@@ -1,0 +1,265 @@
+canonical_identifier: bkk:krp/KR6s0020/v1
+canonical_location: https://kanripo.org/bkk/KR6s0020/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 悉曇字記
+  identifiers:
+    alt_id:
+    - T54n2132
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T54/T54n2132.xml
+    old_id: T54n2132
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6s0020_000.yaml, hash: 'sha256:810ffc0dc78eee6e12624a67504eae89c75c2f58da4757088166bff401dcae22'}
+  - {seq: 1, filename: KR6s0020_001.yaml, hash: 'sha256:272a333fe341b3cd58abea04428187893e1542271f383b221cfb85403af5c7b9'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6s0020_001.markers.yaml, hash: 'sha256:7c82c0a1edda0f4f7922c14b26fd94f56962ed1c2cc5bef73bc83eb7a51516a9'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6s0020_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 4803
+  label: 悉曇字記南天竺般若菩提悉曇
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0020_T_001-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0020_T_001-mulu-2
+    span:
+    - body
+    - 2301
+    - 2301
+  label: 悉曇十二韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0020_T_001-mulu-3
+    span:
+    - body
+    - 2630
+    - 2630
+  label: 體文（悉曇字母）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0020_T_001-mulu-4
+    span:
+    - body
+    - 3174
+    - 3174
+  label: 悉曇十八章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0020_T_001-mulu-5
+    span:
+    - body
+    - 3174
+    - 3174
+  label: 1 第一章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0020_T_001-mulu-6
+    span:
+    - body
+    - 3334
+    - 3334
+  label: 2 第二章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0020_T_001-mulu-7
+    span:
+    - body
+    - 3410
+    - 3410
+  label: 3 第三章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0020_T_001-mulu-8
+    span:
+    - body
+    - 3435
+    - 3435
+  label: 4 第四章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0020_T_001-mulu-9
+    span:
+    - body
+    - 3444
+    - 3444
+  label: 5 第五章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0020_T_001-mulu-10
+    span:
+    - body
+    - 3453
+    - 3453
+  label: 6 第六章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0020_T_001-mulu-11
+    span:
+    - body
+    - 3462
+    - 3462
+  label: 7 第七章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0020_T_001-mulu-12
+    span:
+    - body
+    - 3470
+    - 3470
+  label: 8 第八章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0020_T_001-mulu-13
+    span:
+    - body
+    - 3576
+    - 3576
+  label: 9 第九章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0020_T_001-mulu-14
+    span:
+    - body
+    - 3589
+    - 3589
+  label: 10 第十章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0020_T_001-mulu-15
+    span:
+    - body
+    - 3603
+    - 3603
+  label: 11 第十一章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0020_T_001-mulu-16
+    span:
+    - body
+    - 3617
+    - 3617
+  label: 12 第十二章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0020_T_001-mulu-17
+    span:
+    - body
+    - 3633
+    - 3633
+  label: 13 第十三章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0020_T_001-mulu-18
+    span:
+    - body
+    - 3645
+    - 3645
+  label: 14 第十四章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0020_T_001-mulu-19
+    span:
+    - body
+    - 3657
+    - 3657
+  label: 15 第十五章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0020_T_001-mulu-20
+    span:
+    - body
+    - 4198
+    - 4198
+  label: 16 第十六章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0020_T_001-mulu-21
+    span:
+    - body
+    - 4260
+    - 4260
+  label: 17 第十七章
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0020_T_001-mulu-22
+    span:
+    - body
+    - 4441
+    - 4441
+  label: 18 第十八章孤合之文
+  type: mulu
+  level: 1
+hash: sha256:dd10b38be6f996d0f7ccf8b7972bff4710f1fe4983f4ad26f8733d4bf669c4f9
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
