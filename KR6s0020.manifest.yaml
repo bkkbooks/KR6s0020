@@ -25,9 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6s0020_000.yaml, hash: 'sha256:810ffc0dc78eee6e12624a67504eae89c75c2f58da4757088166bff401dcae22'}
-  - {seq: 1, filename: KR6s0020_001.yaml, hash: 'sha256:272a333fe341b3cd58abea04428187893e1542271f383b221cfb85403af5c7b9'}
+  - {seq: 1, filename: KR6s0020_001.yaml, hash: 'sha256:ebad634e830dd7f2be9de1dd73196a71ec18e96f31ebe900b77ab26dff585f42'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6s0020_001.markers.yaml, hash: 'sha256:7c82c0a1edda0f4f7922c14b26fd94f56962ed1c2cc5bef73bc83eb7a51516a9'}
+  - {seq: 0, role: markers, filename: assets/KR6s0020_000.markers.yaml, hash: 'sha256:ec0839a916f5c36cf7b16d2ad0c238b268bba93f4cc95728fa96d5d3e583f55b'}
+  - {seq: 1, role: markers, filename: assets/KR6s0020_001.markers.yaml, hash: 'sha256:367d125790ecde9bb89975fd1dd30788c2925bd863cd2dad1ac6dad6745a62a1'}
 table_of_contents:
 - ref:
     seq: 1
@@ -259,7 +260,4 @@ table_of_contents:
   label: 18 第十八章孤合之文
   type: mulu
   level: 1
-hash: sha256:dd10b38be6f996d0f7ccf8b7972bff4710f1fe4983f4ad26f8733d4bf669c4f9
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:92c38d66ae10c600363096fa4ff225baf8ac7de3211d2524e2e334de4852eed2
