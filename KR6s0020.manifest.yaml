@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6s0020/v1
 canonical_location: https://kanripo.org/bkk/KR6s0020/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 悉曇字記
   identifiers:
@@ -25,10 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6s0020_000.yaml, hash: 'sha256:810ffc0dc78eee6e12624a67504eae89c75c2f58da4757088166bff401dcae22'}
-  - {seq: 1, filename: KR6s0020_001.yaml, hash: 'sha256:ebad634e830dd7f2be9de1dd73196a71ec18e96f31ebe900b77ab26dff585f42'}
+  - {seq: 1, filename: KR6s0020_001.yaml, hash: 'sha256:21eefd3eaeb71a50539101e646534cc6e4869e32cf52defd05a0a1f19d99df1b'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6s0020_000.markers.yaml, hash: 'sha256:ec0839a916f5c36cf7b16d2ad0c238b268bba93f4cc95728fa96d5d3e583f55b'}
-  - {seq: 1, role: markers, filename: assets/KR6s0020_001.markers.yaml, hash: 'sha256:367d125790ecde9bb89975fd1dd30788c2925bd863cd2dad1ac6dad6745a62a1'}
+  - {seq: 1, role: markers, filename: assets/KR6s0020_001.markers.yaml, hash: 'sha256:3baa97becd112d3da0beb4c8b1a6288fa44d9352f9b71d1eef8905329e18187e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -260,4 +260,7 @@ table_of_contents:
   label: 18 第十八章孤合之文
   type: mulu
   level: 1
-hash: sha256:92c38d66ae10c600363096fa4ff225baf8ac7de3211d2524e2e334de4852eed2
+hash: sha256:2c150ede41e9c84a1110e227035b5c52b38117e7d468257dc264e9a1ef6f6b75
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
